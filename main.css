@@ -1,0 +1,69 @@
+.perso_backgroundColorBlueDark{
+    background-color:#283645;
+}
+.perso_backgroundColorBlueLight{
+    background-color:#1490D7;
+}
+/*.titreBleu {
+    color:blue;
+}
+.titreRouge {
+    color:red;
+}
+
+.backgroundColorRed{
+    background-color:red;
+}
+.backgroundColorBlue{
+    background-color:blue;
+    color:white;
+    border : 2px solid black;
+    padding: 20px 5px 10px 15px;
+}
+
+.backgroundColorGreen{
+    background-color:green;
+    color:white;
+    border : 2px solid black;
+    padding: 20px 5px 10px 15px;
+}
+
+.resultat{
+    padding:10px;
+    margin-top:10px;
+    border: 2px solid black;
+    background-color:rgb(89, 235, 89);
+}
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    background-color:#283645;
+    overflow:hidden;
+}
+li {
+    float:left;
+}
+li a {
+    color:white;
+    padding:20px;
+    text-decoration: none;
+    display:block;
+}
+
+li a:hover{
+    background-color:#1490D7;
+}
+
+h1 {
+    color : #1490D7;
+}
+
+.gauche{
+    float:left;
+}
+.clearB{
+    clear:both;
+}
+*/
